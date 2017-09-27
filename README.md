@@ -29,7 +29,7 @@ For the experiments, we use different geneotypes (e.g., *R70G12-GAL4*), metaboli
 ### Group A:
 
 |    Date | GAL4 driver | UAS effector | Internal state | Temperature |
-|     --* | *--         | *--          | *--            | *--         |
+|    ---- | ----------- | ------------ | -------------- | ----------- |
 | 24-05-17| R70G12-GAL4 |    UAS-dTrpA1|              FF|           22|
 | 24-05-17| R72B03-GAL4 |    UAS-dTrpA1|              FF|           22|
 | 24-05-17| empty-GAL4  |    UAS-dTrpA1|              FF|           22|
