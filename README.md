@@ -11,9 +11,9 @@ The experiment has two parts:
 2. Later, Célia carried experiments on lines that have been requested in response to the publication of Liu et al. (2017). These experiments (group B) were performed from 4th August.
 
 ## Workflow:
-- [] cleaned metadata
-- [] plotting
-- [] interpretation
+    o cleaned metadata
+    o plotting
+    o interpretation
 
 ## Glossary:
 * FF = fully fed:
