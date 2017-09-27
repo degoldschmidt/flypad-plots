@@ -7,7 +7,7 @@ scripts for plotting flyPAD capacitance data and metadata using niceplot
 ###### Experimentor: Célia
 ***
 ## Abstract:
-This is dataset in order to test the TH fragments from Mark Wu's Lab (for reference see Liu et al., 2017) using the flyPAD setup in the behavior room. Célia did the experiments on ... ...
+This is dataset in order to test the TH fragments from Mark Wu's Lab (for reference see Liu et al., 2017) using the flyPAD setup in the behavior room.
 
 The experiment has two parts:
 1. Célia did initial tests on lines that have been ordered earlier. These experiments (group A) were performed from 24th to 26th May.
@@ -71,7 +71,7 @@ For the experiments, we use different geneotypes (e.g., *R70G12-GAL4*), metaboli
 | 26-05-17|            12 | empty-GAL4  |    UAS-dTrpA1|              3dd|             V|    f|                30|    <!-- not sure, ask Célia -->
 
 ### Group B:
-
+###### LINK: [Google Spreadsheet](https://docs.google.com/a/neuro.fchampalimaud.org/spreadsheets/d/1Ap8V4-8F9u5lc12qadjP3HqXkvDEtwfpO73Tl2NpQQs/edit?usp=sharing)
 
 
 ## Substrates:
@@ -79,6 +79,8 @@ For the experiments, we use different geneotypes (e.g., *R70G12-GAL4*), metaboli
 * channel 2: 20 mM sucrose
 
 ## File structure:
+
+*
 
 ## Sessions metadata:
 The sessions metadata (mapping files-metadata)
