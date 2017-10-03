@@ -1,0 +1,16 @@
+CapacitanceData_C01_01_10_C02_11_20_C03_21_30_C04_31_40_C05_41_50_C06_51_60
+
+Males fully fed
+Assay at 25C
+
+
+Channel 1- 10% yeast
+Channel 2- 20mM Sucrose
+
+Condition 1 - TH-F3-Gal4; TH-C-FLP x UAS-kir2.1,tubGal80ts Fully-fed 30C
+Condition 2 - R32A06-Gal4 x UAS-kir2.1,tubGal80ts Fully-fed 30C
+Condition 3 - empty-Gal4; TH-C-FLP x UAS-Kir2.1,tubGal80ts fully fed 30C
+
+Condition 4 - TH-F3-Gal4; TH-C-FLP x UAS-kir2.1,tubGal80ts Fully-fed 18C
+Condition 5 - R32A06-Gal4 x UAS-kir2.1,tubGal80ts Fully-fed 18C
+Condition 6 - empty-Gal4; TH-C-FLP x UAS-Kir2.1,tubGal80ts fully fed 18C

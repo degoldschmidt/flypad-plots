@@ -1,0 +1,20 @@
+27.09.2017
+
+CapacitanceData_C01_01_12_C02_13_24_C03_25_36_C04_37_48_C05_49_60
+Females mated fully fed
+Assay at 25C
+
+Channel 1- 10% yeast
+Channel 2- 20mM Sucrose
+
+Condition 1 - TH-Gal4 x UAS-kir2.1,tubGal80ts Fully-fed 18C
+Condition 2 - TH-C-Gal4 x UAS-kir2.1,tubGal80ts Fully-fed 18C
+Condition 3 - TH-F3-Gal4; TH-C-FLP x UAS-Kir2.1,tubGal80ts fully fed 18C
+Condition 4 - TH-D-Gal4 x UAS-kir2.1,tubGal80ts fully fed 18C
+Condition 5 - emptyy-Gal4 x UAS-kir2.1,tubGal80ts fully fed 18C
+
+Condition 6 - TH-Gal4 x UAS-kir2.1,tubGal80ts females mated fully-fed 30C 48h
+Condition 7 - TH-C-Gal4 x UAS-kir2.1,tubGal80ts females mated fully-fed 30C 48h
+Condition 8 - TH-F3-Gal4; TH-C-FLP x UAS-Kir2.1,tubGal80ts females mated fully fed 30C 48h
+Condition 9 - TH-D-Gal4 x UAS-kir2.1,tubGal80ts females mated fully fed 30C 48h
+Condition 10 - emptyy-Gal4 x UAS-kir2.1,tubGal80ts females mated fully fed 30C 48h
